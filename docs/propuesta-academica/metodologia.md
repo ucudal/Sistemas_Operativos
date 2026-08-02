@@ -2,6 +2,10 @@
 
 La metodología de enseñanza constituye la aplicación práctica de los principios pedagógicos definidos para la asignatura. En consecuencia, las actividades propuestas privilegian la comprensión de problemas de ingeniería por encima de la memorización de mecanismos o algoritmos y promueven una participación activa del estudiante durante todo el proceso de aprendizaje.
 
+!!! info "Idea central"
+
+    El tiempo de clase se destina principalmente al análisis, la discusión y la resolución de problemas. Por este motivo, determinadas unidades podrán requerir actividades de preparación previa que permitan aprovechar mejor el trabajo presencial.
+
 Para determinadas unidades temáticas podrán proponerse actividades de preparación previa basadas en lecturas, material audiovisual u otros recursos seleccionados por el equipo docente. Estas actividades tienen como propósito introducir los conceptos fundamentales antes de su tratamiento en el aula y favorecer que los estudiantes lleguen a clase con una primera aproximación a los problemas que serán analizados.
 
 La preparación previa podrá verificarse mediante cuestionarios breves (Readiness Assurance Tests - RATs), cuya finalidad es identificar el nivel de comprensión inicial de los estudiantes y orientar el trabajo posterior desarrollado durante las clases.

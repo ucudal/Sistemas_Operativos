@@ -2,6 +2,10 @@
 
 La estrategia de evaluación acompaña el proceso de aprendizaje desarrollado durante el curso mediante instancias complementarias que favorecen la preparación, la consolidación y la integración progresiva de los conceptos, proporcionando evidencias del desarrollo de las competencias y resultados de aprendizaje definidos para la asignatura.
 
+!!! tip "Idea clave"
+
+    La evaluación forma parte del proceso de aprendizaje. Sus distintas instancias acompañan el desarrollo del estudiante durante todo el semestre y proporcionan oportunidades para reconocer avances, identificar dificultades y orientar el estudio.
+
 ## Preparación previa
 
 Como parte de las actividades de preparación propuestas para determinadas unidades temáticas podrán utilizarse **Readiness Assurance Tests (RAT)**.

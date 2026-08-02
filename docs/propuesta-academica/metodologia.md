@@ -1,11 +1,15 @@
 # Metodología de enseñanza
 
-El curso propone una metodología centrada en el aprendizaje activo y en la comprensión progresiva de los conceptos a través del análisis de problemas, la discusión guiada y la experimentación.
+La metodología de enseñanza constituye la aplicación práctica de los principios pedagógicos definidos para la asignatura. En consecuencia, las actividades propuestas privilegian la comprensión de problemas de ingeniería por encima de la memorización de mecanismos o algoritmos y promueven una participación activa del estudiante durante todo el proceso de aprendizaje.
 
-Para determinadas unidades temáticas podrán proponerse actividades de preparación previa basadas en lecturas, material audiovisual u otros recursos seleccionados por el equipo docente. Estas actividades buscan favorecer un primer contacto con los conceptos antes de su desarrollo en clase.
+Para determinadas unidades temáticas podrán proponerse actividades de preparación previa basadas en lecturas, material audiovisual u otros recursos seleccionados por el equipo docente. Estas actividades tienen como propósito introducir los conceptos fundamentales antes de su tratamiento en el aula y favorecer que los estudiantes lleguen a clase con una primera aproximación a los problemas que serán analizados.
 
-Durante los encuentros presenciales se prioriza la discusión de problemas, el análisis de alternativas y la construcción colectiva de soluciones. La exposición de los conceptos por parte del docente constituye una herramienta para organizar y consolidar el conocimiento construido durante estas actividades.
+La preparación previa podrá verificarse mediante cuestionarios breves (Readiness Assurance Tests - RATs), cuya finalidad es identificar el nivel de comprensión inicial de los estudiantes y orientar el trabajo posterior desarrollado durante las clases.
 
-La programación, las herramientas de observación y las actividades prácticas se utilizan como instrumentos para experimentar los mecanismos estudiados y favorecer su comprensión.
+Las instancias presenciales se centran en el análisis de situaciones problemáticas, la discusión de alternativas de solución y la construcción progresiva de los conceptos disciplinares. El docente actúa como conductor del proceso de aprendizaje, promoviendo el intercambio de ideas, la argumentación técnica y la reflexión sobre las decisiones de diseño presentes en los sistemas operativos.
 
-A lo largo del curso se desarrollan actividades que promueven la integración progresiva de los conceptos desarrollados en las distintas unidades temáticas, favoreciendo que el estudiante relacione los diferentes mecanismos estudiados como parte de una visión sistémica del funcionamiento de los sistemas operativos.
+Las actividades prácticas complementan el trabajo conceptual mediante experiencias de observación, experimentación y análisis utilizando sistemas operativos y herramientas reales. Su propósito es contrastar los modelos estudiados con implementaciones concretas, favoreciendo la comprensión de los mecanismos involucrados y de su comportamiento en situaciones reales.
+
+A lo largo del curso se desarrollan actividades que favorecen la integración progresiva de los conceptos desarrollados en las distintas unidades temáticas, promoviendo que el estudiante relacione los diferentes mecanismos estudiados como parte de una visión sistémica del funcionamiento de los sistemas operativos.
+
+La metodología propuesta procura que las actividades de aprendizaje y las instancias de evaluación constituyan un proceso continuo y coherente. En consecuencia, las actividades desarrolladas durante el semestre no sólo tienen como finalidad consolidar los conocimientos adquiridos, sino también generar evidencias del desarrollo de las competencias definidas para la asignatura.

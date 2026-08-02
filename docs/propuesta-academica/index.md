@@ -16,6 +16,3 @@ Este documento describe la propuesta académica de la asignatura y busca facilit
 
 Esta propuesta presenta la fundamentación académica del curso, su contribución a la formación profesional y la alineación entre competencias, metodología, contenidos y estrategia de evaluación.
 
----
-
-Continúa con la **Presentación del curso**.

@@ -1,0 +1,38 @@
+site_name: Sistemas Operativos
+site_description: Documentación del curso Sistemas Operativos
+site_url: https://ucudal.github.io/Sistemas_Operativos/
+
+theme:
+  name: material
+  language: es
+  logo: images/logo.png
+
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - navigation.footer
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+
+extra_css:
+  - extra.css
+
+nav:
+  - Inicio: index.md
+
+  - Propuesta académica:
+      - Documento completo: propuesta-academica/index.md
+      - Presentación del curso: propuesta-academica/presentacion.md
+      - Propósito del curso: propuesta-academica/proposito.md
+      - Contribución profesional: propuesta-academica/contribucion.md
+      - Principios pedagógicos: propuesta-academica/principios-pedagogicos.md
+      - Competencias: propuesta-academica/competencias.md
+      - Metodología: propuesta-academica/metodologia.md
+      - Compromiso del estudiante: propuesta-academica/compromiso-estudiante.md
+      - Contenidos: propuesta-academica/contenidos.md
+      - Evaluación: propuesta-academica/evaluacion.md
+
+  - Acerca del curso: acerca.md

@@ -24,7 +24,7 @@ nav:
   - Inicio: index.md
 
   - Propuesta académica:
-      - Documento completo: propuesta-academica/index.md
+      - La Propuesta: propuesta-academica/index.md
       - Presentación del curso: propuesta-academica/presentacion.md
       - Propósito del curso: propuesta-academica/proposito.md
       - Contribución profesional: propuesta-academica/contribucion.md
@@ -34,5 +34,17 @@ nav:
       - Compromiso del estudiante: propuesta-academica/compromiso-estudiante.md
       - Contenidos: propuesta-academica/contenidos.md
       - Evaluación: propuesta-academica/evaluacion.md
+
+  - Unidades:
+      - Introducción: unidades/index.md
+      - "Unidad 1. Fundamentos de los Sistemas Operativos": unidades/1-fundamentos.md
+      - "Unidad 2. Procesos e Hilos": unidades/2-procesos-hilos.md
+      - "Unidad 3. Planificación de Procesos": unidades/3-planificacion.md
+      - "Unidad 4. Sincronización y Concurrencia": unidades/4-sincronizacion-concurrencia.md
+      - "Unidad 5. Sistemas de Archivos": unidades/5-sistemas-archivos.md
+      - "Unidad 6. Entrada y Salida": unidades/6-entrada-salida.md
+      - "Unidad 7. Administración de Memoria": unidades/7-memoria.md
+      - "Unidad 8. Seguridad": unidades/8-seguridad.md
+      - "Unidad 9. Herramientas de Desempeño": unidades/9-herramientas-desempeno.md
 
   - Acerca del curso: acerca.md

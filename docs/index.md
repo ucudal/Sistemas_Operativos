@@ -1,20 +1,35 @@
 # Sistemas Operativos
 
-Bienvenidos al sitio del curso Sistemas Operativos.
+Bienvenido al sitio oficial del curso **Sistemas Operativos**.
 
-Los sistemas operativos constituyen uno de los componentes fundamentales
-de la infraestructura informática. Actúan como intermediarios entre el
-hardware y las aplicaciones, administrando los recursos del sistema.
+Aquí encontrarás la propuesta académica de la asignatura, la documentación de las unidades temáticas y la información pública que acompaña el desarrollo del curso.
 
-## Información del curso
+---
+
+## Antes de comenzar
+
+Si es tu primera vez en el curso, te recomendamos comenzar por la propuesta académica.
 
 - [Presentación del curso](propuesta-academica/presentacion.md)
 - [Propósito del curso](propuesta-academica/proposito.md)
-- [Cómo trabajaremos](propuesta-academica/metodologia.md)
-- [Qué se espera del estudiante](propuesta-academica/compromiso-estudiante.md)
-- [Contenidos](propuesta-academica/contenidos.md)
+- [Metodología de enseñanza](propuesta-academica/metodologia.md)
+- [Compromiso esperado del estudiante](propuesta-academica/compromiso-estudiante.md)
 - [Estrategia de evaluación](propuesta-academica/evaluacion.md)
 
-## Documento completo
+También puedes consultar la [Propuesta Académica completa](propuesta-academica/index.md).
 
-[Leer la propuesta académica y didáctica](propuesta-academica/index.md)
+---
+
+## Unidades temáticas
+
+Las unidades desarrollan los contenidos del curso y constituyen la guía de estudio de cada tema.
+
+1. [Fundamentos de los Sistemas Operativos](unidades/1-fundamentos.md)
+2. [Procesos e Hilos](unidades/2-procesos-hilos.md)
+3. [Planificación de Procesos](unidades/3-planificacion.md)
+4. [Sincronización y Concurrencia](unidades/4-sincronizacion-concurrencia.md)
+5. [Sistemas de Archivos](unidades/5-sistemas-archivos.md)
+6. [Entrada y Salida](unidades/6-entrada-salida.md)
+7. [Administración de Memoria](unidades/7-memoria.md)
+8. [Seguridad](unidades/8-seguridad.md)
+9. [Herramientas de Desempeño](unidades/9-herramientas-desempeno.md)

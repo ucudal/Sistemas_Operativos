@@ -10,7 +10,7 @@ Aquí encontrarás la propuesta académica de la asignatura, la documentación d
 
 Si eres estudiante encontrarás aquí el propósito del curso, la forma en que se desarrollarán las clases, el papel que se espera de tu participación y la lógica de las actividades y evaluaciones.
 
-Si no eres estudiante consulta [cómo utilizar esta documentación](propuesta-academica/#como-utilizar-esta-documentacion), o directamente accede a la propuesta académica:
+Si no eres estudiante consulta [cómo utilizar esta documentación](propuesta-academica/index.md#como-utilizar-esta-documentacion), o directamente accede a la propuesta académica:
 
 - [Presentación del curso](propuesta-academica/presentacion.md)
 - [Propósito del curso](propuesta-academica/proposito.md)

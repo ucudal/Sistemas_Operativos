@@ -25,3 +25,14 @@ Al finalizar la unidad el estudiante:
 - relaciona la evolución histórica de los sistemas operativos con los problemas tecnológicos que buscaban resolver;
 - interpreta la influencia de la arquitectura del computador sobre el diseño del sistema operativo;
 - compara distintas estrategias de abstracción y aislamiento, incluyendo máquinas virtuales y contenedores, interpretando los problemas que buscan resolver y las diferentes formas en que proporcionan un entorno de ejecución para las aplicaciones.
+
+## Contenidos
+
+- Concepto de sistema operativo.
+- Funciones generales de un sistema operativo.
+- Evolución histórica de los sistemas operativos.
+- Arquitectura de computadores y su relación con el sistema operativo.
+- Abstracción entre hardware y aplicaciones.
+- Concepto de virtualización.
+- Estrategias de virtualización.
+- Máquinas virtuales y contenedores como mecanismos de aislamiento y abstracción.

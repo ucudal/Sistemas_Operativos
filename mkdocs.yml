@@ -52,6 +52,6 @@ nav:
       - "Unidad 6. Entrada y Salida": unidades/6-entrada-salida.md
       - "Unidad 7. Administración de Memoria": unidades/7-memoria.md
       - "Unidad 8. Seguridad": unidades/8-seguridad.md
-      - "Unidad 9. Herramientas de Desempeño": unidades/9-observacion-proteccion.md
+      - "Unidad 9. Observación y Protección del Sistema Operativo": unidades/9-observacion-proteccion.md
 
   - Acerca del curso: acerca.md

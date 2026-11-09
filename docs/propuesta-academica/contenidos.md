@@ -110,14 +110,18 @@ Esta organización procura favorecer una comprensión integrada de los distintos
 
 ---
 
-## [Unidad 9. Herramientas de Desempeño](../unidades/9-herramientas-desempeno.md)
+## ["Unidad 9. Herramientas de Desempeño](../unidades/9-observacion-proteccion.md)
 
 **Problema de ingeniería**
 
-¿Cómo observar, medir e interpretar el comportamiento de un sistema operativo en ejecución?
+¿Qué sucede cuando un programa o un usuario utiliza los recursos del sistema operativo de una manera que compromete su funcionamiento, seguridad o disponibilidad?
 
 **Contenidos**
 
-- Herramientas de desempeño
+- Procesos.
+- Archivos.
+- Autenticación.
+- OpenSSH y firewall.
+- Problemas preparados.
 
-Esta unidad integra los conceptos desarrollados durante el curso mediante el uso de herramientas que permiten observar, medir e interpretar el comportamiento del sistema operativo y de los mecanismos estudiados en las unidades anteriores.
+Integra los conceptos desarrollados a lo largo del curso mediante la observación y el análisis del comportamiento de un sistema operativo en ejecución, prestando especial atención a situaciones de uso indebido, abuso de recursos y configuraciones que pueden comprometer su funcionamiento.

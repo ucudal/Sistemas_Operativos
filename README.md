@@ -6,9 +6,8 @@ Este repositorio contiene la documentación académica y docente del curso, mant
 
 ## Contenido
 
-- Propuesta académica y didáctica
+- [Propuesta académica y didáctica - Documentación de las unidades temáticas](https://ucudal.github.io/Sistemas_Operativos/)
 - Guía docente
-- Documentación de las unidades temáticas
 - Materiales y recursos del curso
 
 ## Desarrollo local

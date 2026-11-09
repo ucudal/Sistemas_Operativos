@@ -34,4 +34,4 @@ Las unidades desarrollan los contenidos del curso y constituyen la guía de estu
 6. [Entrada y Salida](unidades/6-entrada-salida.md)
 7. [Administración de Memoria](unidades/7-memoria.md)
 8. [Seguridad](unidades/8-seguridad.md)
-9. [Herramientas de Desempeño](unidades/9-herramientas-desempeno.md)
+9. [Observación y Protección del Sistema Operativo](unidades/9-observacion-proteccion.md)
